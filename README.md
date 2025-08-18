@@ -1,0 +1,2 @@
+# Snitch Fashion Sales Project
+🛍️ Snitch Fashion Sales Data Analytics Project using Python (Pandas, Matplotlib, Seaborn).    This project analyzes *Snitch Fashion Sales Data* to extract business insights and visualize sales performance.   The analysis covers:   - 📍 City-wise Sales Graph   - 📅 Monthly Sales Trend   - 🏷️ Top Selling Product Categories   - 💰 Profit Distribution by Segment   - 🔗 Correlation Heatmap    The project involves data cleaning, preprocessing, and visualization to identify key sales patterns, customer preferences, and profit drivers.
