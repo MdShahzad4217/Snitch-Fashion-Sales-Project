@@ -19,3 +19,5 @@ This repository contains exploratory data analysis (EDA) and visualizations for 
 - seaborn  
 - numpy  
 - jupyter notebook (optional)
+_ _ _
+## 📁 Repository Structure
